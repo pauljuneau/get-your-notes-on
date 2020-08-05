@@ -1,3 +1,5 @@
+https://pauljuneau.github.io/get-your-notes-on/
+
 # get-your-notes-on
 
 This is a simple demo of the Web MIDI API. To use it, connect a MIDI device to your computer, and then play the notes as they appear on the staff.
